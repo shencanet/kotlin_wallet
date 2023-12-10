@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet.ui.home
+package com.cristianvillamil.platziwallet.ui.home.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
