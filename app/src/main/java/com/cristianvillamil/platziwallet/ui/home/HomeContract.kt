@@ -11,4 +11,5 @@ interface Presentador {
     
     fun retrieveFavoriteTransfers()
 }
-fun foo() = 
+fun foo() 
+fun bar()          
