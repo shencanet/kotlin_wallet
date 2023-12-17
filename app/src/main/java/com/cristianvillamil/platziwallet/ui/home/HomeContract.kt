@@ -10,5 +10,7 @@ interface HomeContrat {
 interface Presentador {
     
     fun retrieveFavoriteTransfers()
+
+    
         
 }

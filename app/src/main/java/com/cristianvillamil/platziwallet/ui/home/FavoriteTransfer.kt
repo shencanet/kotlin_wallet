@@ -6,4 +6,5 @@ data class FavoriteTransfer(
     val amount: Double = 0.0,
     val date: String?,
     val photoUrl: String?
+    val 
 )
